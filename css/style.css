@@ -1,9 +1,17 @@
-img {
-    vertical-align: middle;
-    width: auto;
+#pic{
+    display: inline-block;
+    margin: 50px auto;
+    width: 400px;
     height: auto;
     border-radius: 50%;
 }
+/* #box{
+    width:600px;
+    margin: 0 auto;
+    margin-top: 100px;
+    padding: 10px;
+
+} */
 body{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
